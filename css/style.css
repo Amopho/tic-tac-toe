@@ -3,3 +3,17 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  color: #545454;
+  display: flex;
+  font-family: sans-serif;
+  justify-content: center;
+}
+
+.container {
+  background-color: turquoise;
+  margin: 5rem;
+  padding: 3rem;
+  border-radius: 25px;
+}
