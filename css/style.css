@@ -13,7 +13,18 @@ body {
 
 .container {
   background-color: turquoise;
-  margin: 5rem;
-  padding: 3rem;
+  margin: 50px;
+  padding: 50px;
   border-radius: 25px;
+}
+
+.title {
+  text-align: center;
+}
+
+.title span {
+  color: antiquewhite;
+}
+
+.status-action {
 }
